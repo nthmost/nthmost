@@ -20,7 +20,7 @@ I love blending technology with art, creating tech-infused pieces for immersive 
 
 ## 🌟 Top Repositories
 
-[![Metapub](https://github-readme-stats.vercel.app/api/pin/?username=nthmost&repo=metapub&theme=radical)](https://github.com/nthmost/metapub)
+[![Metapub](https://github-readme-stats.vercel.app/api/pin/?username=nthmost&repo=metapub&theme=radical)](https://github.com/metapub/metapub)
 [![Illuminate](https://github-readme-stats.vercel.app/api/pin/?username=nthmost&repo=illuminate&theme=radical)](https://github.com/nthmost/illuminate)
 
 ## 📈 GitHub Stats
