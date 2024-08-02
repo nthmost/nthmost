@@ -8,7 +8,8 @@ I'm a passionate Staff Software Engineer with over 15 years of experience in dev
 
 - 🌍 Based in San Francisco, United States
 - 📧 Contact: [naomi@nthmost.com](mailto:naomi@nthmost.com)
-- 🌐 Personal website: [naomimost.com](https://naomimost.com) (or your actual website if you have one)
+- 🌐 Fun personal website: [nthmost.com](https://nthmost.com)
+- 🌐 Serious website: [naomimost.com](https://naomimost.com)
 
 ## 💼 Professional Experience
 
