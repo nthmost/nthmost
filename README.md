@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Naomi Most, software engineer and artist
 
-- 🌍 Based in San Francisco, United States
-- ☑️ Authorized to work in USA and EU 🇮🇪
+- 🌍 Authorized to work in USA and EU 🇮🇪
+- 🦾 International team lead, fluent in English and French.
 - 📧 Contact: [naomi@nthmost.com](mailto:naomi@nthmost.com)
 - 🌐 Fun personal website: [nthmost.com](https://nthmost.com)
 - 🌐 Serious website: [naomimost.com](https://naomimost.com)
 
 ## 🚀 About Me Professionally
 
-I'm a passionate Principal Software Engineer with over 15 years of experience in developing innovative solutions and leading cross-functional teams. I have a strong background in bioinformatics, open-source projects, and software engineering, with a focus on driving impactful technological advancements.
+I'm a passionate Principal Software Engineer with Technical Program Manager leanings, sporting over 15 years of experience in The Biz.
 
 ## 🎨 About Me Artistically
 
-I love blending technology with art, creating tech-infused pieces for immersive theater events. My work often explores the intersection of data and narrative, bringing new dimensions to storytelling through interactive installations.
+For the past decade I've been enhancing art with technology in the immersive theater world, leading project teams of 5 to 20 artists twice a year.  I delight in designing and build venues where people can explore, interact, discover, and co-creatae. My work often explores the intersection of data and narrative, bringing new dimensions to storytelling through interactive installations.
 
 ### Tech-Infused Art Projects
+
+Most of my art doesn't store in a github repo -- I sure would save on studio and storage costs if it did! -- but here are the few that do.
 
 - **[Artery Thermal](https://github.com/nthmost/artery-thermal)**: What if CVS receipts were art?  What if a "90s-era AI" (Markov chains) generated "experiences" and fake coupons on those receipts? All the answers you never wanted in this repo!
 
