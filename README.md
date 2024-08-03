@@ -58,9 +58,10 @@ Metapub provides abstraction around articles, MedGen concepts, ClinVar variants,
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="50" style="margin-right: 10px;" />
 <div>
 <b><a href="https://streamlit.io">Streamlit (Python)</a></b><br/>
-Contributor, Former Bug Marshal
-
+Contributor, Former Bug Marshal<br/><br/>
 As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching system and developed novel media-related features. I also spearheaded Streamlit's transition from Python 2/3 to full Python 3 support. I triaged bugs and managed community dialogue in GitHub issues, pioneering novel processes for integrating open source contributions from outside of Streamlit.
+</div>
+</div>
 
 ### <img src="https://metapub.org/img/Illuminate_logo.png" alt="Illuminate Logo" width="50"/> [Illuminate](https://github.com/nthmost/illuminate)
 Creator / Principal / Maintainer
