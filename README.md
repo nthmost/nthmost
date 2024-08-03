@@ -49,17 +49,17 @@ Most of my art doesn't store in a github repo -- I sure would save on studio and
 
 ## 🔧 Major Open Source Contributions
 
-### ![Metapub Logo](https://metapub.org/metapub_logo_thx_justin.png) [Metapub (Python)](http://metapub.org)
+### <img src="https://metapub.org/metapub_logo_thx_justin.png" alt="Metapub Logo" width="50"/> [Metapub (Python)](http://metapub.org)
 Creator / Principal / Maintainer
 
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
 
-### ![Illuminate Logo](https://www.seqcenter.com/wp-content/uploads/2023/07/DNA-1.png) [Illuminate (Python)](https://github.com/nthmost/illuminate)
+### <img src="https://www.seqcenter.com/wp-content/uploads/2023/07/DNA-1.png" alt="Illuminate Logo" width="50"/> [Illuminate (Python)](https://github.com/nthmost/illuminate)
 Creator / Principal / Maintainer
 
 Illuminate parses the metrics binaries that result from Illumina sequencer runs, and provides usable data in the form of python dictionaries and dataframes. Installed in genetic sequencing labs worldwide, including the bacterial sequencing center in the Center for Disease Control.
 
-### ![Streamlit Logo](https://streamlit.io/images/brand/streamlit-mark-color.svg) [Streamlit (Python)](https://streamlit.io)
+### <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="50"/> [Streamlit (Python)](https://streamlit.io)
 Contributor, Former Bug Marshal
 
 As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching system and developed novel media-related features. I also spearheaded Streamlit's transition from Python 2/3 to full Python 3 support. I triaged bugs and managed community dialogue in GitHub issues, pioneering novel processes for integrating open source contributions from outside of Streamlit.
