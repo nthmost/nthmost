@@ -41,11 +41,13 @@ My grandmother, [Kay McNulty Mauchly Antonelli](https://en.wikipedia.org/wiki/Ka
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## 🎨 About Me Artistically
+## 🧚‍♀️ About Me Artistically
 
-For the past decade I've been enhancing art with technology in the immersive theater world, leading project teams of 5 to 20 artists twice a year.  I delight in designing and build venues where people can explore, interact, discover, and co-creatae. My work often explores the intersection of data and narrative, bringing new dimensions to storytelling through interactive installations.
+For the past decade I've been enhancing art with technology in the immersive theater world, leading project teams of 5 to 20 artists twice a year.  I delight in designing and building venues where people can explore, interact, discover, and co-creatae. My work often explores the intersection of data and narrative, bringing new dimensions to storytelling through interactive installations.
 
-### Tech-Infused Art Projects
+_I want my own art to surprise me._
+
+### 🎨 Tech-Infused Art Projects
 
 Most of my art doesn't store in a github repo -- I sure would save on studio and storage costs if it did! -- but here are the few that do.
 
