@@ -10,6 +10,24 @@
 
 I'm a passionate Principal Software Engineer with Technical Program Manager leanings, sporting over 15 years of experience in The Biz.
 
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Asterisk-FF6600?style=flat-square&logo=asterisk&logoColor=white" />
+</p>
+
 ## 🎨 About Me Artistically
 
 For the past decade I've been enhancing art with technology in the immersive theater world, leading project teams of 5 to 20 artists twice a year.  I delight in designing and build venues where people can explore, interact, discover, and co-creatae. My work often explores the intersection of data and narrative, bringing new dimensions to storytelling through interactive installations.
