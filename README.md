@@ -76,37 +76,6 @@ Illuminate parses the metrics binaries that result from Illumina sequencer runs,
 </div>
 </div>
 
-
-_Perhaps you've noticed from this section, I am not a designer! I am a hell of an open source contributor though!!_
-
-## 💼 Professional Experience
-
-### Principal Software Engineer (Consultant) at Seagen, Inc
-*April 2021 - December 2021*
-
-- Spearheaded the innovation of clinical data pipelines, enhancing PHI protection.
-- Pioneered an API for low-code development, boosting workflow efficiency.
-- Actively participated in technology negotiations with Quality and Safety departments.
-
-### Sr Software Engineer & Technical Program Manager at Streamlit
-*September 2019 - March 2024*
-
-- Led full-stack engine development, optimizing memory and ensuring low-latency media interactions.
-- Organized community hackathons for beta-testing new features, boosting user engagement and feedback.
-- Managed GitHub bug triage, escalating work predictability from 50% to 90%, while instilling Agile practices.
-
-### Lead Software Engineer (Consultant) at Whisper.ai
-*January 2019 - April 2019*
-
-- Engineered Python framework to streamline hw/sw interface testing.
-- Automated test harnesses, facilitating offline product provisioning.
-
-### Bioinformatics Software Engineer at Invitae
-*February 2013 - September 2015*
-
-- Automated PubMed article retrieval and annotation, saving significant time for scientists.
-- Developed seqbot for real-time QC metrics alerts, boosting gene sequencing efficiency.
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nthmost)
