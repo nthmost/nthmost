@@ -68,7 +68,7 @@ As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching 
 </div>
 
 ### <div style="display: flex; align-items: flex-start;">
-<img src="https://www.seqcenter.com/wp-content/uploads/2023/07/DNA-1.png" alt="Illuminate Logo" width="50" style="margin-right: 10px;" />
+<img src="https://metapub.org/img/Illuminate_logo.png" alt="Illuminate Logo" width="50" style="margin-right: 10px;" />
 <div>
 <b><a href="https://github.com/nthmost/illuminate">Illuminate (Python)</a></b><br/>
 Creator / Principal / Maintainer<br/><br/>
