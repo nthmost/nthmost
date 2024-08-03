@@ -54,12 +54,12 @@ Creator / Principal / Maintainer
 
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
 
-### ![Illuminate Logo](https://raw.githubusercontent.com/nthmost/illuminate/main/docs/logo.png) [Illuminate (Python)](https://github.com/nthmost/illuminate)
+### ![Illuminate Logo](https://www.seqcenter.com/wp-content/uploads/2023/07/DNA-1.png) [Illuminate (Python)](https://github.com/nthmost/illuminate)
 Creator / Principal / Maintainer
 
 Illuminate parses the metrics binaries that result from Illumina sequencer runs, and provides usable data in the form of python dictionaries and dataframes. Installed in genetic sequencing labs worldwide, including the bacterial sequencing center in the Center for Disease Control.
 
-### ![Streamlit Logo](https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/images/logos/streamlit-mark-color.svg) [Streamlit (Python)](https://streamlit.io)
+### ![Streamlit Logo](https://streamlit.io/images/brand/streamlit-mark-color.svg) [Streamlit (Python)](https://streamlit.io)
 Contributor, Former Bug Marshal
 
 As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching system and developed novel media-related features. I also spearheaded Streamlit's transition from Python 2/3 to full Python 3 support. I triaged bugs and managed community dialogue in GitHub issues, pioneering novel processes for integrating open source contributions from outside of Streamlit.
