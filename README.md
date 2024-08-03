@@ -54,7 +54,7 @@ Creator / Principal / Maintainer
 
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
 
-### <img src="https://www.seqcenter.com/wp-content/uploads/2023/07/DNA-1.png" alt="Illuminate Logo" width="50"/> [Illuminate (Python)](https://github.com/nthmost/illuminate)
+### <img src="https://metapub.org/img/Illuminate_logo.png" alt="Illuminate Logo" width="50"/> [Illuminate (Python)](https://github.com/nthmost/illuminate)
 Creator / Principal / Maintainer
 
 Illuminate parses the metrics binaries that result from Illumina sequencer runs, and provides usable data in the form of python dictionaries and dataframes. Installed in genetic sequencing labs worldwide, including the bacterial sequencing center in the Center for Disease Control.
