@@ -6,9 +6,15 @@
 - 🌐 Fun personal website: [nthmost.com](https://nthmost.com)
 - 🌐 Serious website: [naomimost.com](https://naomimost.com)
 
-## 🧙‍♀️ About Me Professionally
+## 🧙‍♀️ Where I'm from as an engineer
 
-I'm a passionate Principal Software Engineer with Technical Program Manager leanings, sporting over 15 years of experience in The Biz.
+I'm a passionate Principal Software Engineer with strong TPM, EM, and developer relations chops, sporting over 15 years of experience in The Biz, and more than 25 years of just generally getting good at [hooking stuff up to other stuff](https://web.archive.org/web/20010810063846/http://hotwired.lycos.com/members/97/48/geek0a.html). 
+
+🖥️ I taught myself to code in BASIC on the Apple IIe when I was 10.  Then I taught myself Perl, Python, and PHP, figured out how to store and query data in MySQL, and ran it all on my own Linux server with Apache2, Icecast, and Asterisk for fun and occasional profit.
+
+My grandmother, [Kay McNulty Mauchly Antonelli](https://en.wikipedia.org/wiki/Kathleen_Antonelli), taught me how to program the ENIAC -- because she co-created its programming language.  Kay Mauchly is also credited with the co-invention of [the Subroutine](https://en.wikipedia.org/wiki/Function_(computer_programming)) along with her husband [John Mauchly, the co-inventor of the ENIAC](https://en.wikipedia.org/wiki/John_Mauchly) (my grandfather).  
+
+☘️ Kay's first language was Irish (Gaeilge) ☘️.  I miss her intensely, so in her memory, I've devoted myself to learning to speak Irish fluently.  And since it's super challenging learning any minority language, I've been working on a PeerTube based website as a platform for minority language learners to find recordings of native speakers to learn from.
 
 ## 🛠️ Languages & Tools
 
@@ -22,10 +28,17 @@ I'm a passionate Principal Software Engineer with Technical Program Manager lean
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<p/>
+<p align="left">
   <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/-Asterisk-FF6600?style=flat-square&logo=asterisk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Icecast-99BCE3?style=flat-square&logo=icecast&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ## 🎨 About Me Artistically
