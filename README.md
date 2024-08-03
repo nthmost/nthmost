@@ -49,12 +49,8 @@ For the past decade I've been enhancing art with technology in the immersive the
 
 Most of my art doesn't store in a github repo -- I sure would save on studio and storage costs if it did! -- but here are the few that do.
 
-- **[Artery Thermal](https://github.com/nthmost/artery-thermal)**: What if CVS receipts were art?  What if a "90s-era AI" (Markov chains) generated "experiences" and fake coupons on those receipts? All the answers you never wanted in this repo!
-
-## 🌟 Top Repositories
-
-[![Metapub](https://github-readme-stats.vercel.app/api/pin/?username=nthmost&repo=metapub&theme=radical)](https://github.com/metapub/metapub)
-[![Illuminate](https://github-readme-stats.vercel.app/api/pin/?username=nthmost&repo=illuminate&theme=radical)](https://github.com/nthmost/illuminate)
+- 🧾 **[Artery Thermal](https://github.com/nthmost/artery-thermal)**: What if CVS receipts were art?  What if a "90s-era AI" (Markov chains) generated "experiences" and fake coupons on those receipts? All the answers you never wanted in this repo!
+- 💽 **[DiscoBot](https://github.com/nthmost/disco
 
 ## 📈 GitHub Stats
 
