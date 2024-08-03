@@ -54,7 +54,10 @@ Creator / Principal / Maintainer
 
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
 
-### <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="50"/> [Streamlit](https://streamlit.io)
+### <div style="display: flex; align-items: flex-start;">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="50" style="margin-right: 10px;" />
+<div>
+<b><a href="https://streamlit.io">Streamlit (Python)</a></b><br/>
 Contributor, Former Bug Marshal
 
 As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching system and developed novel media-related features. I also spearheaded Streamlit's transition from Python 2/3 to full Python 3 support. I triaged bugs and managed community dialogue in GitHub issues, pioneering novel processes for integrating open source contributions from outside of Streamlit.
