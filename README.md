@@ -6,7 +6,7 @@
 - 🌐 Fun personal website: [nthmost.com](https://nthmost.com)
 - 🌐 Serious website: [naomimost.com](https://naomimost.com)
 
-## 🚀 About Me Professionally
+## 🧙‍♀️ About Me Professionally
 
 I'm a passionate Principal Software Engineer with Technical Program Manager leanings, sporting over 15 years of experience in The Biz.
 
@@ -49,21 +49,17 @@ Most of my art doesn't store in a github repo -- I sure would save on studio and
 
 ## 🔧 Major Open Source Contributions
 
-### [Metapub (Python)](http://metapub.org)
+### ![Metapub Logo](https://raw.githubusercontent.com/metapub/metapub/main/docs/logo.png) [Metapub (Python)](http://metapub.org)
 Creator / Principal / Maintainer
 
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
 
-Metapub has been installed in thousands of academic libraries, genetic testing labs, biomedical companies, and text mining projects worldwide, and has been cited in numerous academic papers.  
-
-Learn more at metapub.org
-
-### [Illuminate (Python)](https://github.com/nthmost/illuminate)
+### ![Illuminate Logo](https://raw.githubusercontent.com/nthmost/illuminate/main/docs/logo.png) [Illuminate (Python)](https://github.com/nthmost/illuminate)
 Creator / Principal / Maintainer
 
 Illuminate parses the metrics binaries that result from Illumina sequencer runs, and provides usable data in the form of python dictionaries and dataframes. Installed in genetic sequencing labs worldwide, including the bacterial sequencing center in the Center for Disease Control.
 
-### [Streamlit (Python)](https://streamlit.io)
+### ![Streamlit Logo](https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/images/logos/streamlit-mark-color.svg) [Streamlit (Python)](https://streamlit.io)
 Contributor, Former Bug Marshal
 
 As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching system and developed novel media-related features. I also spearheaded Streamlit's transition from Python 2/3 to full Python 3 support. I triaged bugs and managed community dialogue in GitHub issues, pioneering novel processes for integrating open source contributions from outside of Streamlit.
