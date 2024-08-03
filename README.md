@@ -49,7 +49,7 @@ Most of my art doesn't store in a github repo -- I sure would save on studio and
 
 ## 🔧 Major Open Source Contributions
 
-### ![Metapub Logo](https://raw.githubusercontent.com/metapub/metapub/main/docs/logo.png) [Metapub (Python)](http://metapub.org)
+### ![Metapub Logo](https://metapub.org/metapub_logo_thx_justin.png) [Metapub (Python)](http://metapub.org)
 Creator / Principal / Maintainer
 
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
