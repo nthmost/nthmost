@@ -49,10 +49,14 @@ Most of my art doesn't store in a github repo -- I sure would save on studio and
 
 ## 🔧 Major Open Source Contributions
 
-### <img src="https://metapub.org/metapub_logo_thx_justin.png" alt="Metapub Logo" width="50"/> [Metapub](http://metapub.org)
-Creator / Principal / Maintainer
-
+### <div style="display: flex; align-items: flex-start;">
+<img src="https://metapub.org/metapub_logo_thx_justin.png" alt="Metapub Logo" width="50" style="margin-right: 10px;" />
+<div>
+<b><a href="http://metapub.org">Metapub (Python)</a></b><br/>
+Creator / Principal / Maintainer<br/><br/>
 Metapub provides abstraction around articles, MedGen concepts, ClinVar variants, MeSH tags, and more, as fetched from the National Library of Medicine. Metapub makes it easy to programmatically query the NLM, backed by a built-in cache layer allowing speed-ups of queries over time.
+</div>
+</div>
 
 ### <div style="display: flex; align-items: flex-start;">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="50" style="margin-right: 10px;" />
@@ -67,6 +71,9 @@ As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching 
 Creator / Principal / Maintainer
 
 Illuminate parses the metrics binaries that result from Illumina sequencer runs, and provides usable data in the form of python dictionaries and dataframes. Installed in genetic sequencing labs worldwide, including the bacterial sequencing center in the Center for Disease Control.
+
+
+_Perhaps you've noticed from this section, I am not a designer! I am a hell of an open source contributor though!!_
 
 ## 💼 Professional Experience
 
