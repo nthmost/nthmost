@@ -67,10 +67,14 @@ As Streamlit's 6th full-time engineer, I optimized the Streamlit memory caching 
 </div>
 </div>
 
-### <img src="https://metapub.org/img/Illuminate_logo.png" alt="Illuminate Logo" width="50"/> [Illuminate](https://github.com/nthmost/illuminate)
-Creator / Principal / Maintainer
-
+### <div style="display: flex; align-items: flex-start;">
+<img src="https://www.seqcenter.com/wp-content/uploads/2023/07/DNA-1.png" alt="Illuminate Logo" width="50" style="margin-right: 10px;" />
+<div>
+<b><a href="https://github.com/nthmost/illuminate">Illuminate (Python)</a></b><br/>
+Creator / Principal / Maintainer<br/><br/>
 Illuminate parses the metrics binaries that result from Illumina sequencer runs, and provides usable data in the form of python dictionaries and dataframes. Installed in genetic sequencing labs worldwide, including the bacterial sequencing center in the Center for Disease Control.
+</div>
+</div>
 
 
 _Perhaps you've noticed from this section, I am not a designer! I am a hell of an open source contributor though!!_
